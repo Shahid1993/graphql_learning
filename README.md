@@ -17,4 +17,34 @@
   3. Makes it easy to start building APIs and be consistent
   4. GraphQL is an agnostic query language which means you can use it with any language. At the time of writing this tutorial, GraphQL has support for more than 12 languages.
   5. An open source query language
+  
+## Table of Content:
+
+1. [What is GraphQL](https://github.com/mugli/learning-graphql/blob/master/1.%20What%20is%20GraphQL.md)
+2. [Basic Query Syntax](https://github.com/mugli/learning-graphql/blob/master/2.%20Basic%20Query%20Syntax.md)
+3. [Querying with Field Aliases and Fragments](https://github.com/mugli/learning-graphql/blob/master/3.%20Querying%20with%20Field%20Aliases%20and%20Fragments.md)
+4. [Querying with Directives](https://github.com/mugli/learning-graphql/blob/master/4.%20Querying%20with%20Directives.md)
+5. [On the Server-Side - Creating Your First Schema](https://github.com/mugli/learning-graphql/blob/master/5.%20On%20the%20Server-Side%20-%20Creating%20Your%20First%20Schema.md)
+6. [A Working GraphQL Server in Nodejs](https://github.com/mugli/learning-graphql/blob/master/6.%20A%20Working%20GraphQL%20Server%20in%20Nodejs.md)
+7. [Deep Dive into GraphQL Type System](https://github.com/mugli/learning-graphql/blob/master/7.%20Deep%20Dive%20into%20GraphQL%20Type%20System.md)
+8. [Mutations](https://github.com/mugli/learning-graphql/blob/master/8.%20Mutations.md)
+9. Introspection (TBD)
+10. A Working GraphQL Server v2 (TBD)
+
+
+## Plan
+
+I intend to use these documents to make workshopper lessons. Any kind of contributions are welcome, more if you feel like adding tasks and test suits in the workshopper.
+
+## License
+
+MIT
+
+## More Resources
+
+- [How to GraphQL](https://www.howtographql.com): Fullstack Tutorial Website to Learn GraphQL 
+- [Explore GraphQL](https://www.graphql.com): Great collection of articles, case studies and real-world use cases all around GraphQL
+- [GraphQL Radio](https://www.graphqlradio.com): Podcast all around the GraphQL eco-system
+- [GraphQL Weekly](https://graphqlweekly.com): Newsletter all around GraphQL
+
 
