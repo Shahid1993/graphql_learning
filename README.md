@@ -20,16 +20,16 @@
   
 ## Table of Content:
 
-1. [What is GraphQL](1.%20What%20is%20GraphQL.md)
-2. [Basic Query Syntax](2.%20Basic%20Query%20Syntax.md)
-3. [Querying with Field Aliases and Fragments](3.%20Querying%20with%20Field%20Aliases%20and%20Fragments.md)
-4. [Querying with Directives](4.%20Querying%20with%20Directives.md)
-5. [On the Server-Side - Creating Your First Schema](5.%20On%20the%20Server-Side%20-%20Creating%20Your%20First%20Schema.md)
-6. [A Working GraphQL Server in Nodejs](6.%20A%20Working%20GraphQL%20Server%20in%20Nodejs.md)
-7. [Deep Dive into GraphQL Type System](7.%20Deep%20Dive%20into%20GraphQL%20Type%20System.md)
-8. [Mutations](8.%20Mutations.md)
-9. Introspection (TBD)
-10. A Working GraphQL Server v2 (TBD)
+01. [What is GraphQL](01.%20What%20is%20GraphQL.md)
+02. [Basic Query Syntax](02.%20Basic%20Query%20Syntax.md)
+03. [Querying with Field Aliases and Fragments](03.%20Querying%20with%20Field%20Aliases%20and%20Fragments.md)
+04. [Querying with Directives](04.%20Querying%20with%20Directives.md)
+05. [On the Server-Side - Creating Your First Schema](05.%20On%20the%20Server-Side%20-%20Creating%20Your%20First%20Schema.md)
+06. [A Working GraphQL Server in Nodejs](06.%20A%20Working%20GraphQL%20Server%20in%20Nodejs.md)
+07. [Deep Dive into GraphQL Type System](07.%20Deep%20Dive%20into%20GraphQL%20Type%20System.md)
+08. [Mutations](08.%20Mutations.md)
+09. [Introspection](09.%20Introspection.md)
+10. [A Working GraphQL Server v2](10.%20A%20Working%20GraphQL%20Server%20v2.md)
 
 
 ## Plan
