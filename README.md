@@ -1,7 +1,7 @@
 # graphql_learning
 
 
-* #### [Why GraphQL is the future of APIs](https://medium.freecodecamp.org/why-graphql-is-the-future-of-apis-6a900fb0bc81)
+## [Why GraphQL is the future of APIs](https://medium.freecodecamp.org/why-graphql-is-the-future-of-apis-6a900fb0bc81)
   GraphQL is a query language developed by Facebook in 2012 and released publicly in 2015. It has been gaining a lot of traction. It has been adopted by a lot of big companies such as Spotify, Facebook, GitHub, NYTimes, Netflix, Walmart, and so on.  
   
   __Problems with RESTful API Design :__
