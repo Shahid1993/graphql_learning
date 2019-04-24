@@ -33,10 +33,6 @@
 10. [A Working GraphQL Server v2](10.%20A%20Working%20GraphQL%20Server%20v2.md)
 
 
-## Plan
-
-I intend to use these documents to make workshopper lessons. Any kind of contributions are welcome, more if you feel like adding tasks and test suits in the workshopper.
-
 ## License
 
 MIT
