@@ -79,6 +79,25 @@ Query variables :
 }
 ```
 
+```
+query($userId:Int!){
+  user(id:$userId){
+    ...userFields
+  }
+}
+fragment userFields on Person {
+  id
+  name
+  age
+  project
+}
+
+Query variables :
+{
+  "userId": 2
+}
+```
+
 
 
 ### Aliases :::::::
